@@ -1,0 +1,4 @@
+#Wed Jul 05 00:44:50 KST 2017
+base.0=/Users/JAY/AndroidStudioProjects/ImageReceiver/app/build/intermediates/transforms/dexMerger/debug/1
+renamed.0=classes.dex
+file.0=/Users/JAY/AndroidStudioProjects/ImageReceiver/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex

@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/Users/JAY/AndroidStudioProjects/ImageReceiver/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=309b243b28c828aa01afd470b50bb6ab8b5af7cf
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

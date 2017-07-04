@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/b6212b411881079edd2e91321a069d96/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/056c5befcf90990bf3b502f30f681783/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/fb9b578c412c38edc69b2e31d2f17e66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/JAY/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6716b6a087ccd050db254f698575a55f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/2494c95ec027815f30f50235a711e4b0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/b7fa09576eeee3057a890fac0b121d9a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:transition:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/f0eeb5f95d66e32b9fa14535250f818e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/c7d159a334e6e755fa1fa91f6d13856b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/df4880e5d5c92b44cab9149214bdee99/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/a8f3bfbb107c5b57ac6bb0053379ad2a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/02d4d169c542c625aeaa7cb86d85bd0e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/062c07ac994788ec87facd5d2d75ee7a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/2d7551b76b790c661de7203b77bf5a14/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/b6212b411881079edd2e91321a069d96/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/b6212b411881079edd2e91321a069d96/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/056c5befcf90990bf3b502f30f681783/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/056c5befcf90990bf3b502f30f681783/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/JAY/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6716b6a087ccd050db254f698575a55f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/JAY/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6716b6a087ccd050db254f698575a55f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/2494c95ec027815f30f50235a711e4b0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/2494c95ec027815f30f50235a711e4b0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/b7fa09576eeee3057a890fac0b121d9a/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/b7fa09576eeee3057a890fac0b121d9a/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/f0eeb5f95d66e32b9fa14535250f818e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/f0eeb5f95d66e32b9fa14535250f818e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/c7d159a334e6e755fa1fa91f6d13856b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/c7d159a334e6e755fa1fa91f6d13856b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/df4880e5d5c92b44cab9149214bdee99/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/df4880e5d5c92b44cab9149214bdee99/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/a8f3bfbb107c5b57ac6bb0053379ad2a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/a8f3bfbb107c5b57ac6bb0053379ad2a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/02d4d169c542c625aeaa7cb86d85bd0e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/02d4d169c542c625aeaa7cb86d85bd0e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/062c07ac994788ec87facd5d2d75ee7a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/062c07ac994788ec87facd5d2d75ee7a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/2d7551b76b790c661de7203b77bf5a14/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/2d7551b76b790c661de7203b77bf5a14/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.jay.imagereceiver.MainActivity
+ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/b6212b411881079edd2e91321a069d96/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/b6212b411881079edd2e91321a069d96/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/056c5befcf90990bf3b502f30f681783/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/056c5befcf90990bf3b502f30f681783/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/fb9b578c412c38edc69b2e31d2f17e66/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.1.0.aar/fb9b578c412c38edc69b2e31d2f17e66/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/JAY/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6716b6a087ccd050db254f698575a55f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/JAY/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6716b6a087ccd050db254f698575a55f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/2494c95ec027815f30f50235a711e4b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/2494c95ec027815f30f50235a711e4b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/b7fa09576eeee3057a890fac0b121d9a/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/b7fa09576eeee3057a890fac0b121d9a/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/f0eeb5f95d66e32b9fa14535250f818e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/transition-25.1.0.aar/f0eeb5f95d66e32b9fa14535250f818e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/c7d159a334e6e755fa1fa91f6d13856b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/c7d159a334e6e755fa1fa91f6d13856b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/df4880e5d5c92b44cab9149214bdee99/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/df4880e5d5c92b44cab9149214bdee99/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/a8f3bfbb107c5b57ac6bb0053379ad2a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/a8f3bfbb107c5b57ac6bb0053379ad2a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/02d4d169c542c625aeaa7cb86d85bd0e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/02d4d169c542c625aeaa7cb86d85bd0e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/062c07ac994788ec87facd5d2d75ee7a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/062c07ac994788ec87facd5d2d75ee7a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/2d7551b76b790c661de7203b77bf5a14/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/2d7551b76b790c661de7203b77bf5a14/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /Users/JAY/.gradle/caches/transforms-1/files-1.1/design-25.1.0.aar/b6212b411881079edd2e91321a069d96/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/JAY/AndroidStudioProjects/ImageReceiver/app/src/main/AndroidManifest.xml
